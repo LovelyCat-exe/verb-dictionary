@@ -63,14 +63,9 @@ If you want to simulate a server environment (helpful for CSV loading in some br
 4. **Open in browser**
    Visit [http://localhost:8000](http://localhost:8000) and use the search functionality.
 
-### Deployment on GitHub Pages
-
-1. Push the repository to GitHub
-2. Go to **Settings → Pages**, select the branch (`main`) and folder (`/root`)
-3. Visit your GitHub Pages URL:
+### Or you can directly visit my GitHub Pages URL:
    [https://LovelyCat-exe.github.io/verb-dictionary/](https://LovelyCat-exe.github.io/verb-dictionary/)
 
----
 
 ## 中文版
 
@@ -136,9 +131,5 @@ If you want to simulate a server environment (helpful for CSV loading in some br
 4. **浏览器访问**
    打开 [http://localhost:8000](http://localhost:8000) 即可使用动词查询功能。
 
-### GitHub Pages 部署
-
-1. 将仓库推送到 GitHub
-2. 打开 **Settings → Pages**，选择分支 (`main`) 和文件夹 (`/root`)
-3. 访问你的 GitHub Pages URL:
+## 或者直接访问我的 GitHub Pages URL:
    [https://LovelyCat-exe.github.io/verb-dictionary/](https://LovelyCat-exe.github.io/verb-dictionary/)
